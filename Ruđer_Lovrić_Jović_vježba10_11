@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Vježba10ć</title>
+  </head>
+  <body>
+    <h1>Ruđer Lovrić Jović</h1>
+    <h2>20</h2>
+
+    <p>slike:</p>
+      <img width="300" height="400" controls src="/C:\Users\rokoj\Desktop\ruderlovricjovicvjezba1011\slike\IMG_8582.jpeg" alt=""/>
+      <img width="300" height="400" controls src="/C:\Users\rokoj\Desktop\ruderlovricjovicvjezba1011\slike\IMG_8583.jpeg" alt=""/>
+      <img width="300" height="400" controls src="/C:\Users\rokoj\Desktop\ruderlovricjovicvjezba1011\slike\IMG_8584.jpeg" alt=""/>
+      <img width="300" height="400" controls src="/C:\Users\rokoj\Desktop\ruderlovricjovicvjezba1011\slike\IMG_8585.jpeg" alt=""/>
+      <p><b>moji interesi:</b></p>
+      <p>najdraži filmovi:</p>
+      <nav>
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=zJGleGyahC8"><i>The Best Offer</i></a></li>
+          <li><a href="https://www.youtube.com/watch?v=naQr0uTrH_s"><i>Pirates of the Carebean: The Curse of rhe Black Pearl</i></a></li>
+          <li><a href="https://www.youtube.com/watch?v=CwXOrWvPBPk"<i>Shrek (2001)</i></a></li>
+        </ul>
+      </nav>
+      <p><b>Artisti koje slušam:</b></p>
+      <nav>
+        <ol>
+          <li><span style="color: blue"> Frank Ocean</span></li>
+          <li><span style="color: blue"> Tyler The Creator</span></li>
+          <li><span style="color: blue"> Cigarettes after sex</span></li>
+          <li><span style="color: blue"> Lana del Rey</span></li>
+
+        </ol>
+      </nav>
+      <p><b>estetika stana kojoj težim:</b></p>
+      <a href="file:///C:/Users/rokoj/Desktop/ruderlovricjovicvjezba1011/Kliknite%20ovdje">Kliknite ovdje</a>
+      <p><b>Knjige koje sam pročitao:</b></p>
+      <a href="file:///C:/Users/rokoj/Desktop/ruderlovricjovicvjezba1011/001%20-%20Voltaire%20-%20Candide.pdf"><span style="color: red">Candide by Voltaire</span></a><br>
+      <a href="file:///C:/Users/rokoj/Desktop/ruderlovricjovicvjezba1011/the-song-books.yossr.com).pdf"><span style="color: red">The Song of Achilies by Madeline Miller</span></a><br>
+      <a href="file:///C:/Users/rokoj/Desktop/ruderlovricjovicvjezba1011/Preview-No-Longer-Human-by-Osamu-Dazai.pdf"><span style="color: red">No longer human by Osamu Dazai</span></a>
+      <p><b>moj zadnji rad:</b></p>
+      <a href="file:///C:/Users/rokoj/Desktop/ruderlovricjovicvjezba1011/moj%20zadnji%20rad">Kliknite ovdje</a>
+
+
+  </body>
+</html>
