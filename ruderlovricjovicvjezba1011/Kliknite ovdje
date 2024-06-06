@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>vjezba1</title>
+  </head>
+  <body>
+    <img width="300" height="400" controls src="/C:\Users\rokoj\Desktop\ruderlovricjovicvjezba1011\IMG_8596.jpg" alt=""/>
+    <img width="300" height="400" controls src="/C:\Users\rokoj\Desktop\ruderlovricjovicvjezba1011\IMG_8595.jpg" alt=""/><br>
+    <img width="300" height="400" controls src="/C:\Users\rokoj\Desktop\ruderlovricjovicvjezba1011\IMG_8594.jpg" alt=""/>
+    <img width="300" height="400" controls src="/C:\Users\rokoj\Desktop\ruderlovricjovicvjezba1011\IMG_8593.jpeg" alt=""/>
+
+  </body>
+</html>

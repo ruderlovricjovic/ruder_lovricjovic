@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>vjezba2</title>
+  </head>
+  <body>
+    <video width="250" height="600" controls>
+      <source src="file:///C:/Users/rokoj/Desktop/ruderlovricjovicvjezba1011/ruder_lovric_jovic_vjeºba9_2.mp4" type="video/mp4"/>
+
+
+    <p> <audio width="250" height="600" controls>
+         <source src="file:///C:/Users/rokoj/Desktop/ruderlovricjovicvjezba1011/zvuk.mp3" type="audio/mp3"/>
+  </audio>
+  </p>
+  </body>
+</html>
